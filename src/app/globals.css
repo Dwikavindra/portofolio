@@ -18,10 +18,17 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: black;
+  background-image: url("/background.png");
+  background-repeat: repeat-y;
+  background-size: cover;
+  overflow: scroll;
+  height: 100vh;
+  width: "100%";
+  font-family: "Roboto";
+  font-size: 1.6 rem;
+}
+
+:root {
+  font-size: 62.5%;
 }
