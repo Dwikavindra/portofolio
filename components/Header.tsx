@@ -53,27 +53,33 @@ export default function Header() {
             Education
           </h1>
         </button>
-        <h1
-          className={`py-2 text-2xl transition-opacity duration-1000 ${
-            isClicked ? "opacity-100" : "opacity-0"
-          }`}
-        >
-          Work Experience
-        </h1>
-        <h1
-          className={`py-2 text-2xl transition-opacity duration-1000 ${
-            isClicked ? "opacity-100" : "opacity-0"
-          }`}
-        >
-          Projects
-        </h1>
-        <h1
-          className={`py-2 text-2xl transition-opacity duration-1000 ${
-            isClicked ? "opacity-100" : "opacity-0"
-          }`}
-        >
-          Socials
-        </h1>
+        <button onClick={() => scrollToElement("workexperience")}>
+          <h1
+            className={`py-2 text-2xl transition-opacity duration-1000 ${
+              isClicked ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            Work Experience
+          </h1>
+        </button>
+        <button onClick={() => scrollToElement("projects")}>
+          <h1
+            className={`py-2 text-2xl transition-opacity duration-1000 ${
+              isClicked ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            Projects
+          </h1>
+        </button>
+        <button onClick={() => scrollToElement("socials")}>
+          <h1
+            className={`py-2 text-2xl transition-opacity duration-1000 ${
+              isClicked ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            Socials
+          </h1>
+        </button>
       </div>
     </div>
   );

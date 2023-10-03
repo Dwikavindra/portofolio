@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="" style={{ scrollMargin: "200px" }} id="aboutme">
+    <div style={{ scrollMargin: "200px" }} id="aboutme">
       <h1 className="mt-24 text-7xl font-bold md:hidden ">Hi 👋 !</h1>
       <h1 className=" text-7xl font-bold md:hidden ">My name is</h1>
       <h1 className=" text-7xl font-bold md:hidden">Dwikavindra</h1>

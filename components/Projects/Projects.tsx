@@ -5,7 +5,11 @@ import Sunmi from "./Sunmi";
 export default function Projects() {
   return (
     <div>
-      <h1 className="text-7xl mt-24  font-black lg:text-center lg:justify-center ">
+      <h1
+        id="projects"
+        style={{ scrollMargin: "5em" }}
+        className="text-7xl mt-24  font-black lg:text-center lg:justify-center "
+      >
         Projects 📝
       </h1>
       <Carousel
