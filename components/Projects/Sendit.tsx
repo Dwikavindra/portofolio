@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function SendIt() {
   return (
     <div className="flex  h-[100%] flex-col lg:flex-row-reverse justify-center content-center">
-      <h1 className="text-6xl mt-[-20px] text-center font-bold">SendIt</h1>
+      <h1 className="text-6xl text-center font-bold">SendIt</h1>
       <div className="relative w-[211px] h-[366px] lg:w-[426px] lg:h-[699px]  self-center mt-10">
         <Image src="/SendIt.png" fill alt={"SendIt Phone Picture"}></Image>
       </div>

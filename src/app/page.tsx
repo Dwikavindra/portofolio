@@ -8,12 +8,14 @@ import Projects from "../../components/Projects/Projects";
 import Socials from "../../components/Socials/Socials";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import NavDesktop from "../../components/NavDesktop";
 
 export default function Home() {
   return (
     <div>
       <Header />
-      <div className="ml-5 mr-5 xl:ml-20">
+      <div className="ml-5 mr-5 xl:ml-20 lg:ml-20">
+        <NavDesktop></NavDesktop>
         <About></About>
         <Education></Education>
         <WorkExperience></WorkExperience>
