@@ -7,8 +7,8 @@ export default function Education() {
     <div>
       <h1
         id="education"
-        style={{ scrollMargin: "5em" }}
-        className="text-7xl mt-24  font-black "
+        style={{ scrollMargin: "1em" }}
+        className="text-9xl mt-24  font-black "
       >
         Education 🎓
       </h1>

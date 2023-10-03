@@ -7,7 +7,7 @@ export default function Projects() {
     <div>
       <h1
         id="projects"
-        style={{ scrollMargin: "5em" }}
+        style={{}}
         className="text-7xl mt-24  font-black lg:text-center lg:justify-center "
       >
         Projects 📝
