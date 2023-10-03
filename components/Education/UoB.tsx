@@ -4,7 +4,7 @@ export default function UoB() {
   return (
     <>
       <Box className="mt-3 text-center  items-center pb-14 md:flex-row md:text-left">
-        <div className="mt-[20px] relative w-[200px] h-[100px]  md:mt-[20px] md:w-[270px] md:h-[100px] lg:w-[372px] lg:h-[193px]">
+        <div className="mt-[20px] relative w-[200px] h-[100px]  md:mt-[20px] md:w-[400px] md:h-[100px] lg:w-[550px] lg:h-[193px]">
           <Image src={"/UoB.png"} fill alt={"UoB Logo"} />
         </div>
         <div className="flex flex-col ">

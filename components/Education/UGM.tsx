@@ -5,7 +5,7 @@ export default function UGM() {
   return (
     <>
       <Box className="mt-8 text-center  items-center pb-14 md:flex-row md:text-left ">
-        <div className="mt-[20px] relative w-[123px] h-[117px] ml-5  md:mt-[20px] md:w-[210px] md:h-[120px] lg:w-[240px] lg:h-[226px] lg:ml-20">
+        <div className="mt-[20px] relative w-[123px] h-[117px] ml-5  md:mt-[20px] md:w-[310px] md:h-[120px] lg:w-[350px] lg:h-[226px] lg:ml-20">
           <Image src={"/UGM.png"} fill alt={"UoB Logo"} />
         </div>
         <div className="flex flex-col md:ml-10 lg:ml-28">
