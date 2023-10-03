@@ -29,7 +29,7 @@ export default function NavDesktop() {
           </div>
         </div>
         <div
-          onClick={() => scrollToElement("aboutme")}
+          onClick={() => scrollToElement("workexperience")}
           className="flex justify-center items-center bg-[#1A44F5] w-[276px] h-[318px] text-[48px] font-bold rounded-[50px] hover:scale-125 duration-500 text-center mt-10 mb-10 bg-[#601AF5]"
         >
           Work Experience
