@@ -14,6 +14,10 @@ module.exports = withMT({
       fontFamily: {
         arial: ["Arial"],
       },
+      transitionDuration: {
+        2000: "4000ms",
+        4000: "4000ms",
+      },
     },
   },
   plugins: [],

@@ -1,7 +1,7 @@
 import Image from "next/image";
 export default function Socials() {
   return (
-    <div>
+    <div id="socials" style={{ scrollMargin: "50px" }}>
       <h1 className="text-7xl font-bold gap-5 text-center mt-10">Socials 💬</h1>
       <div className="flex flex-row text-center justify-evenly mt-10">
         <a href="https://github.com/Dwikavindra" target="_blank">
