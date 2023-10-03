@@ -9,7 +9,7 @@ export default function SendIt() {
       <div className="self-center">
         <div className="rounded-[20px] pl-5 pt-5 pr-5 pb-2 bg-white text-black w-[300px] font-extrabold mt-8">
           <p className="text-3xl">
-            A Simple TCP/IP app that I developed it's UI and backend using
+            A Simple TCP/IP app that I developed {`it's`} UI and backend using
             Flutter and python with other teammates for networking class with
             the server written in python
           </p>

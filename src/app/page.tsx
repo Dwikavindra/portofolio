@@ -9,6 +9,7 @@ import Socials from "../../components/Socials/Socials";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import NavDesktop from "../../components/NavDesktop";
+import Head from "next/head";
 
 export default function Home() {
   return (
