@@ -1,6 +1,6 @@
 export default function NavDesktop() {
   return (
-    <div className="hidden lg:flex lg:flex-row items-center justify-center content-center border">
+    <div className="hidden lg:flex lg:flex-row items-center justify-center content-center">
       <div className="flex flex-col">
         <h1 className="text-[100px] font-bold">Dwikavindra</h1>
         <h1 className="text-[100px] font-bold">Haryo</h1>
