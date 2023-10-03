@@ -3,24 +3,24 @@ import Image from "next/image";
 export default function UoB() {
   return (
     <>
-      <Box className="mt-3 text-center  items-center pb-14 md:flex-row md:text-left max-w-[1440px]">
+      <Box className="mt-3 text-center  items-center pb-14 md:flex-row md:text-left">
         <div className="mt-[20px] relative w-[200px] h-[100px]  md:mt-[20px] md:w-[270px] md:h-[100px] lg:w-[372px] lg:h-[193px]">
           <Image src={"/UoB.png"} fill alt={"UoB Logo"} />
         </div>
         <div className="flex flex-col ">
-          <h2 className="text-5xl font-bold mt-6 ">University of Birmingham</h2>
-          <h2 className="text-4xl font-bold mt-5 "> 2022-Present</h2>
+          <h2 className="text-7xl font-bold mt-6 ">University of Birmingham</h2>
+          <h2 className="text-6xl font-bold mt-5 "> 2022-Present</h2>
           <a
             href="https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering.aspx"
-            className="text-3xl underline decoration-white mt-5 "
+            className="text-5xl underline decoration-white mt-5 "
           >
             M.Eng Computer Science/Software Engineering
           </a>
           <div className="flex flex-col text-left">
-            <h4 className=" text-3xl mt-5 font-bold pl-7 md:pl-0">
+            <h4 className=" text-4xl mt-5 font-bold pl-7 md:pl-0">
               Relevant Coursework:
             </h4>
-            <p className="hidden text-2xl mt-2 font-bold md:flex">
+            <p className="hidden text-4xl mt-2 font-bold md:flex">
               Software Engineering and Professional Practice, Operating System
               and Systems Programming, Security and Networks, Artificial
               Intelligence 2
