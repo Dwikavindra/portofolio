@@ -13,6 +13,7 @@ export default function UGM() {
           <h2 className="text-6xl font-bold mt-5 "> 2020-Present</h2>
           <a
             href="https://dcse.fmipa.ugm.ac.id/site/en/undergraduate-computer-science/"
+            target="_blank"
             className="text-5xl underline decoration-white mt-5 "
           >
             Bachelor in Computer Science

@@ -2,12 +2,12 @@ import Image from "next/image";
 export default function SendIt() {
   return (
     <div className="flex  h-[100%] flex-col lg:flex-row-reverse justify-center content-center">
-      <h1 className="text-6xl text-center font-bold">SendIt</h1>
-      <div className="relative w-[211px] h-[364px] lg:w-[426px] lg:h-[699px]  self-center mt-10">
+      <h1 className="text-6xl mt-[-20px] text-center font-bold">SendIt</h1>
+      <div className="relative w-[211px] h-[366px] lg:w-[426px] lg:h-[699px]  self-center mt-10">
         <Image src="/SendIt.png" fill alt={"SendIt Phone Picture"}></Image>
       </div>
       <div className="self-center">
-        <div className="rounded-[20px] pl-5 pt-5 pr-5 pb-2 bg-white text-black w-[300px] font-extrabold mt-10">
+        <div className="rounded-[20px] pl-5 pt-5 pr-5 pb-2 bg-white text-black w-[300px] font-extrabold mt-8">
           <p className="text-3xl">
             A Simple TCP/IP app that I developed it's UI and backend using
             Flutter and python with other teammates for networking class with

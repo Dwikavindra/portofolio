@@ -20,6 +20,7 @@ export default function Babel() {
             <a
               className="self-center w-[100%]  justify-center pl-6 text-3xl underline"
               href="https://github.com/fyrbel/Babel"
+              target="_blank"
             >
               Github Repo
             </a>

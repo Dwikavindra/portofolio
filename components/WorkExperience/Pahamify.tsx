@@ -17,6 +17,7 @@ export default function Pahamify() {
             <a
               href="https://www.pahamify.com/"
               className=" text-center mt-5 text-4xl font-bold underline"
+              target="_blank"
             >
               Pahamify
             </a>

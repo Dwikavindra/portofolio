@@ -22,6 +22,7 @@ export default function TelkomIndonesia() {
             <a
               href="https://www.telkom.co.id/"
               className=" text-center mt-5 text-4xl font-bold underline"
+              target="_blank"
             >
               Telkom Indonesia
             </a>
@@ -52,6 +53,7 @@ export default function TelkomIndonesia() {
               <a
                 href="https://pijarsekolah.id/"
                 className="underline font-bold"
+                target="_blank"
               >
                 Pijar Sekolah
               </a>

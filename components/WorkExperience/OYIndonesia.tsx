@@ -17,6 +17,7 @@ export default function OYIndonesia() {
             <a
               href="https://www.oyindonesia.com/"
               className=" text-center mt-5 text-4xl font-bold underline"
+              target="_blank"
             >
               OY! Indonesia
             </a>
@@ -51,11 +52,19 @@ export default function OYIndonesia() {
                 </li>
                 <li className="mt-3">
                   Implemented Braze SDK in Next.js (
-                  <a className="underline" href="www.oyindonesia.com">
+                  <a
+                    className="underline"
+                    href="www.oyindonesia.com"
+                    target="_blank"
+                  >
                     mobile dashboard OY! Dashboard
                   </a>{" "}
                   )  and React.js (
-                  <a className="underline" href="www.oyindonesia.com">
+                  <a
+                    className="underline"
+                    href="www.oyindonesia.com"
+                    target="_blank"
+                  >
                     desktop dashboard OY! Dashboard
                   </a>{" "}
                   )  to help OY! Indonesia has increased its retention rate,

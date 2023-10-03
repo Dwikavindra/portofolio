@@ -16,6 +16,7 @@ export default function Viska() {
             <a
               href="https://viska.io/"
               className=" text-center mt-5 text-4xl font-bold underline"
+              target="_blank"
             >
               Viska
             </a>
@@ -46,17 +47,29 @@ export default function Viska() {
             <p className="text-left font-arial  text-4xl ">
               Viska is a software company based in Iceland. Viska focuses in
               taking projects from large Icelandic partners such as
-              <a href="https://pizzan.is" className="underline font-bold">
+              <a
+                href="https://pizzan.is"
+                className="underline font-bold"
+                target="_blank"
+              >
                 {" "}
                 Pizzan
               </a>{" "}
               and{" "}
-              <a href="https://wolt.com/en/isl" className="underline font-bold">
+              <a
+                href="https://wolt.com/en/isl"
+                className="underline font-bold"
+                target="_blank"
+              >
                 Wolt
               </a>
               . Viska is currently developing it’s own POS system for partners
               in Iceland named{" "}
-              <a className="underline font-bold " href="https://upsell.is">
+              <a
+                className="underline font-bold "
+                href="https://upsell.is"
+                target="_blank"
+              >
                 Upsell
               </a>
             </p>

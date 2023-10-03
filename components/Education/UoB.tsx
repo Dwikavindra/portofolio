@@ -12,6 +12,7 @@ export default function UoB() {
           <h2 className="text-6xl font-bold mt-5 "> 2022-Present</h2>
           <a
             href="https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering.aspx"
+            target="_blank"
             className="text-5xl underline decoration-white mt-5 "
           >
             M.Eng Computer Science/Software Engineering
