@@ -13,7 +13,11 @@ export default function TelkomIndonesia() {
         <div className=" lg:flex-row-reverse lg:flex">
           <div className="flex flex-col  items-center w-[100%] lg:w-[500px] ">
             <div className="items-center mt-[20px] lg:mt-0 relative w-[200px] h-[200px] ml-5">
-              <Image src={"/TelkomIndonesia.png"} fill alt={"Viska Logo"} />
+              <Image
+                src={"/TelkomIndonesia.png"}
+                fill
+                alt={"Telkom Indonesia Logo"}
+              />
             </div>
             <a
               href="https://www.telkom.co.id/"

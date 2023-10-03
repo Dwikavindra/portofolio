@@ -12,10 +12,10 @@ export default function OYIndonesia() {
         <div className=" lg:flex-row-reverse lg:flex">
           <div className="flex flex-col  items-center w-[100%] lg:w-[500px] ">
             <div className="items-center mt-[20px] lg:mt-0 relative w-[200px] h-[200px] ml-5">
-              <Image src={"/OYIndonesia.png"} fill alt={"Viska Logo"} />
+              <Image src={"/OYIndonesia.png"} fill alt={"OY Indonesia Logo"} />
             </div>
             <a
-              href="https://www.telkom.co.id/"
+              href="https://www.oyindonesia.com/"
               className=" text-center mt-5 text-4xl font-bold underline"
             >
               OY! Indonesia

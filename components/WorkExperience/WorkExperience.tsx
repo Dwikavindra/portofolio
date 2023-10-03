@@ -3,6 +3,7 @@ import Image from "next/image";
 import Viska from "./VIska";
 import TelkomIndonesia from "./TelkomIndonesia";
 import OYIndonesia from "./OYIndonesia";
+import Pahamify from "./Pahamify";
 
 export default function WorkExperience() {
   return (
@@ -11,6 +12,7 @@ export default function WorkExperience() {
       <Viska></Viska>
       <TelkomIndonesia></TelkomIndonesia>
       <OYIndonesia></OYIndonesia>
+      <Pahamify></Pahamify>
     </>
   );
 }
