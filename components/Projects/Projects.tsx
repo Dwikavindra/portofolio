@@ -8,7 +8,7 @@ export default function Projects() {
       <h1
         id="projects"
         style={{}}
-        className="text-7xl mt-24  font-black lg:text-center lg:justify-center lg:text-9xl "
+        className="scroll-m-80 text-7xl mt-24  font-black lg:text-center lg:justify-center lg:text-9xl lg:scroll-m-0 "
       >
         Projects 📝
       </h1>

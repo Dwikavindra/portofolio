@@ -4,7 +4,7 @@ export default function UoB() {
   return (
     <>
       <Box className="mt-3 text-center  items-center pb-14 md:flex-row md:text-left">
-        <div className="mt-[20px] relative w-[200px] h-[100px]  md:mt-[20px] md:w-[400px] md:h-[100px] lg:w-[550px] lg:h-[193px]">
+        <div className="mt-[20px] relative w-[200px] h-[100px]  md:mt-[20px] md:w-[400px] md:h-[100px] lg:w-[500px] lg:h-[193px]">
           <Image src={"/UoB.png"} fill alt={"UoB Logo"} />
         </div>
         <div className="flex flex-col ">
@@ -21,7 +21,7 @@ export default function UoB() {
             <h4 className=" text-4xl mt-5  pl-7 md:pl-0">
               Relevant Coursework:
             </h4>
-            <p className="hidden text-2xl mt-2  md:flex">
+            <p className="hidden text-2xl mt-2 lg:text-3xl  md:flex">
               Software Engineering and Professional Practice, Operating System
               and Systems Programming, Security and Networks, Artificial
               Intelligence 2

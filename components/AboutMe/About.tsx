@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div style={{ scrollMargin: "20px" }} id="aboutme">
+    <div className="scroll-m-80 lg:scroll-m-5" id="aboutme">
       <h1 className="mt-24 text-7xl font-bold lg:hidden ">Hi 👋 !</h1>
       <h1 className=" text-7xl font-bold lg:hidden ">My name is</h1>
       <h1 className=" text-7xl font-bold lg:hidden">Dwikavindra</h1>
