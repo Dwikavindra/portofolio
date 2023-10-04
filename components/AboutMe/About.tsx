@@ -4,7 +4,7 @@ export default function About() {
       <h1 className="mt-24 text-7xl font-bold lg:hidden ">Hi 👋 !</h1>
       <h1 className=" text-7xl font-bold lg:hidden ">My name is</h1>
       <h1 className=" text-7xl font-bold lg:hidden">Dwikavindra</h1>
-      <h1 className="mt-20 hidden lg:flex text-9xl leading-normal font-black ">
+      <h1 className=" text-7xl mt-20 hidden lg:flex lg:text-9xl leading-normal font-black ">
         About Me 👋
       </h1>
       <p className="text-4xl font-arial mt-11 leading-normal md:text-4xl">

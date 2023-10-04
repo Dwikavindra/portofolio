@@ -18,10 +18,10 @@ export default function UoB() {
             M.Eng Computer Science/Software Engineering
           </a>
           <div className="flex flex-col text-left">
-            <h4 className=" text-4xl mt-5 font-bold pl-7 md:pl-0">
+            <h4 className=" text-4xl mt-5  pl-7 md:pl-0">
               Relevant Coursework:
             </h4>
-            <p className="hidden text-4xl mt-2 font-bold md:flex">
+            <p className="hidden text-2xl mt-2  md:flex">
               Software Engineering and Professional Practice, Operating System
               and Systems Programming, Security and Networks, Artificial
               Intelligence 2

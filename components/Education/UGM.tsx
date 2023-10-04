@@ -22,12 +22,7 @@ export default function UGM() {
             <h4 className=" text-4xl mt-5  pl-1 md:pl-0">
               Relevant Coursework:
             </h4>
-            <p className="hidden text-4xl mt-2 md:flex">
-              Software Engineering and Professional Practice, Operating System
-              and Systems Programming, Security and Networks, Artificial
-              Intelligence 2
-            </p>
-            <p className="text-2xl md:hidden mt-2 pl-1">
+            <p className="text-2x mt-2 pl-1">
               Artificial Intelligence 1 ,Programming 1, <br></br>Programming 2,
               Data Structures and<br></br> Algorithms, Database
             </p>

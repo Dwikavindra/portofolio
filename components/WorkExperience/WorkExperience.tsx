@@ -11,7 +11,7 @@ export default function WorkExperience() {
       <h1
         id="workexperience"
         style={{ scrollMargin: "1em" }}
-        className="text-9xl mt-24  font-black "
+        className="text-7xl mt-24  font-black lg:text-9xl "
       >
         Work Experience 💻
       </h1>
